@@ -7,7 +7,7 @@ __*DISCLAIMER*__ This mod uses API1 and therefore can only run on dedicated serv
 
 * Navigate to your server's `Content\Mods` folder
 * Create a new folder titled `ReforgedEdenMKI`
-* Copy build output (or the release folder contents) into this folder
+* Copy the files `ReforgedEdenMKI.dll` and `ReforgedEdenMKI_Info.yaml` into this folder
 * Restart your dedicated server
 
 ## Features
