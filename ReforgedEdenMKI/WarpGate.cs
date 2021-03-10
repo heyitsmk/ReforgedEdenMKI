@@ -92,7 +92,7 @@ namespace ReforgedEdenMKI
         {
             foreach (var gsi in gsl)
             {
-                if (_entityId == 0 && gsi.name == _name)
+                if (_entityId == 0 && gsi.name == _name && gsi.coreType == 4)
                 {
                     _entityId = gsi.id;
                     _position = gsi.pos;
